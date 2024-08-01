@@ -1,4 +1,5 @@
 taichow keyboard
+台州寧波蘇州吳語羅馬字輸入法
 ==============
 
 Description
