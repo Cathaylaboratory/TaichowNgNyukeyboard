@@ -284,8 +284,8 @@ store(vowels_huyen)             'àèìòùÀÈÌÒÙ'
 "T" + "t" > "Tʽ"
 "K" + "k" > "Kʽ"
 "Ts" + "s" > "Tsʽ"
-"Kw" + "w" > "kwʽ"
-"Ky" + "y" > "kyʽ"
+"Kw" + "w" > "Kwʽ"
+"Ky" + "y" > "Kyʽ"
 "C" + "c" > "Cʽ"
 
 "pʽ" + "p" > "pp"
